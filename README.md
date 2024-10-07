@@ -12,8 +12,8 @@ Sou um artista com muito interesse na criação de interfaces e experiências vi
 
 
 ### 🚀 Projetos:
-1. **[Projeto Hollow Knight](link)**  
-   ste projeto visa refazer o design do site Hollow Knight, meu jogo preferido, desenvolvido pela Team Cherry e protegido por direitos autorais. Esta iniciativa oferece uma oportunidade para estudar e aplicar os princípios fundamentais de design web, ao mesmo tempo em que aprimoro minhas habilidades técnicas em codificação de HTML, CSS e JavaScript.
+1. **[Projeto Hollow Knight](https://github.com/KiltonAraujo/Projeto-Hollow-Knight)**  
+   Este projeto visa refazer o design do site Hollow Knight, meu jogo preferido, desenvolvido pela Team Cherry e protegido por direitos autorais. Esta iniciativa oferece uma oportunidade para estudar e aplicar os princípios fundamentais de design web, ao mesmo tempo em que aprimoro minhas habilidades técnicas em codificação de HTML, CSS e JavaScript.
    ![Imagem do projeto](https://github.com/KiltonAraujo/Projeto-Hollow-Knight/blob/main/src/assets/thehome.jpg)
 
 
