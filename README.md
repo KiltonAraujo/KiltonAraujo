@@ -39,8 +39,4 @@ Sou um artista com muito interesse na criação de interfaces e experiências vi
 <br />
 <br />
 
-<img src="https://raw.githubusercontent.com/KiltonAraujo/KiltonAraujo/output/snake.svg" alt="Snake animation" />
-
-###
-
 
