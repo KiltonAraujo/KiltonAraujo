@@ -17,7 +17,7 @@ Sou um artista com muito interesse na criação de interfaces e experiências vi
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KiltonAraujo&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiltonAraujo&layout=compact&theme=dracula)](https://github.com/KiltonAraujo/github-readme-stats)
 
-### Linguagenss e Ferramentas:
+### Linguagens e Ferramentas:
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="src/vscode-icons_file-type-html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="src/vscode-icons_file-type-css.png" /></a>
 <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="src/skill-icons_python-light.png"/> </a>
@@ -35,7 +35,12 @@ Sou um artista com muito interesse na criação de interfaces e experiências vi
 <a href="https://www.figma.com" target="_blank"> <img align="left" alt="Figma" width="26px" src="src/devicon_figma.png"/> </a>
 
 
+
 <br />
 <br />
+
+<img src="https://raw.githubusercontent.com/KiltonAraujo/KiltonAraujo/output/snake.svg" alt="Snake animation" />
+
+###
 
 
