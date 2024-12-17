@@ -35,7 +35,6 @@ Sou um artista com muito interesse na criação de interfaces e experiências vi
 <a href="https://www.figma.com" target="_blank"> <img align="left" alt="Figma" width="26px" src="src/devicon_figma.png"/> </a>
 
 
-
 <br />
 <br />
 
