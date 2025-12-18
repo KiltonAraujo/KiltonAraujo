@@ -26,6 +26,11 @@ Sou um artista com muito interesse na criação de interfaces e experiências vi
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="src/devicon_git.png"/> </a>
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 
+<a href="https://nodejs.org/en" target="_blank"> <img align="left" alt="NodeJS" width="26px" src="src/node.svg"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank"> <img align="left" alt="DJango" width="26px" src="src/django.png"/> </a>
+<a href="https://react.dev/" target="_blank"> <img align="left" alt="React" width="26px" src="src/react.png"/> </a>
+
+
 <br />
 <br />
 
