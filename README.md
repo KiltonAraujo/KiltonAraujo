@@ -4,7 +4,7 @@
 
 Sou um artista com muito interesse na criação de interfaces e experiências visuais para encantar os usuários. Com uma base sólida em ferramentas de design e tecnologias web, trabalho para transformar ideias em realidade digital.
 
-### Veja meu [Portifolio](https://kiltonaraujo.github.io/Portifolio/)!
+### Veja meu [Portfólio](https://kiltonaraujo.github.io/Portfolio/)!
 
 (Use o tema escuro para achar meus contatos ;)
 
